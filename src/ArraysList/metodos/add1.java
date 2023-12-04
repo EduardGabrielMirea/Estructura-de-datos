@@ -18,6 +18,9 @@ public class add1 {
         for (int i = 0; i < lista.size(); i++) {
             System.out.println("Numeros = " + lista);
         }
+
+        System.out.println(" ");
+
         //Imprimimos cada vez solo 1 posicion de la lista, es decir solo 1 elemento.
         for (int i = 0; i < lista.size(); i++) {
             System.out.println("Solo 1 numero de la lista = " + lista.get(i));
