@@ -9,6 +9,9 @@ public class add1 {
         //Creamos una arrayList vacia, con una capacidad inicial.
         ArrayList<Integer> lista = new ArrayList<Integer>(5);
 
+
+        //Este método se utiliza para insertar un elemento específico en un índice de posición específico en una lista.
+
         //Usamos add() para añadir elementos a la lista.
         lista.add(15);
         lista.add(20);
